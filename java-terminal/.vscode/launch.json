@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Teste",
+            "request": "launch",
+            "mainClass": "Teste",
+            "projectName": "java-terminal_213a6d85"
+        },
+        {
+            "type": "java",
             "name": "AboutMeOutro",
             "request": "launch",
             "mainClass": "AboutMeOutro",
