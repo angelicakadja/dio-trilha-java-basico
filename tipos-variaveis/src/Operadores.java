@@ -118,9 +118,9 @@ public class Operadores {
         String nomeDois = "Angelica";
         String nomeTres = new String("Kadja");
         
-        System.out.println(nomeUm == nomeDois);
+        System.out.println(nomeUm.equals(nomeDois));
 
-        System.out.println(nomeUm != nomeDois);
+        System.out.println(!nomeUm.equals(nomeDois));
 
         // Comparar objetos com equals String
 
