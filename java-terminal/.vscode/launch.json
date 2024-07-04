@@ -3,6 +3,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorCep",
+            "request": "launch",
+            "mainClass": "FormatadorCep",
+            "projectName": "java-terminal_213a6d85"
+        },
+        {
+            "type": "java",
+            "name": "FormatadorCepExemplo",
+            "request": "launch",
+            "mainClass": "FormatadorCepExemplo",
+            "projectName": "java-terminal_213a6d85"
+        },
+        {
+            "type": "java",
+            "name": "ExemploExcecao",
+            "request": "launch",
+            "mainClass": "ExemploExcecao",
+            "projectName": "java-terminal_213a6d85"
+        },
+        {
+            "type": "java",
+            "name": "AboutMeInteracaoUsuario",
+            "request": "launch",
+            "mainClass": "AboutMeInteracaoUsuario",
+            "projectName": "java-terminal_213a6d85"
+        },
+        {
+            "type": "java",
             "name": "Teste",
             "request": "launch",
             "mainClass": "Teste",
